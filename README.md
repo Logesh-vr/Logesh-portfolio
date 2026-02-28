@@ -37,28 +37,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,git,github,linux" />
 </p>
 
----
 
-## 🚀 Featured Projects
-
-### 🔥 CPU Performance Prediction using ML
-- 📊 Regression + Classification models
-- 🧪 Feature engineering & benchmarking
-- 📈 Performance comparison across algorithms
-
-### 💡 6×6×6 LED Cube
-- ⚡ Hardware + Logic design
-- 🔌 Low-level control & optimization
-- 🧠 Team-based engineering project
-
-### 🏥 Community Vaccination Tracking System
-- 📍 Demographic & location-based analytics
-- 🔔 Vaccine reminder simulation
-- 📉 Risk prediction (outbreak modeling – bonus)
-
-> More projects → **Repositories section 👇**
-
----
 
 ## 📊 GitHub Stats (Yes, They Matter)
 
