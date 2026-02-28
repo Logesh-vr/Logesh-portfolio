@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Logesh R</h1>
+<h1 align="center">Logesh R</h1>
 <h3 align="center">B.Tech CSE (AI & ML) | Builder | Hackathon Nerd | Problem Solver</h3>
 
 <p align="center">
@@ -9,12 +9,12 @@
 
 ---
 
-## 🧠 About Me
-- 🎓 B.Tech **Computer Science (AI & ML specialization)**
-- 🔬 Interested in **Machine Learning, Computer Vision, Systems & Optimization**
-- 🏆 Active **hackathon participant** (national & international)
-- 🛠️ I learn by **building**, not watching tutorials
-- 📈 Obsessed with **consistency & self-improvement**
+## About Me
+- B.Tech **Computer Science (AI & ML specialization)**
+- Interested in **Machine Learning, Computer Vision, Systems & Optimization**
+- Active **hackathon participant** (national & international)
+- I learn by **building**, not watching tutorials
+- Obsessed with **consistency & self-improvement**
 
 > _“If it doesn’t challenge me, I’m not interested.”_
 
