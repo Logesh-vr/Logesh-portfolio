@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Logesh&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Code.%20Build.%20Repeat.&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+  <img src="banner.png" width="100%" alt="Logesh Banner"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=I+Code+Because+I+Can;B.Tech+CS+%7C+AI+%7C+Full+Stack;Building+Body+%26+Codebase;Be+Better+Than+Yesterday" alt="Typing SVG"/>
 </div>
 
 ---
 
 <div align="center">
 
-## 🧠 Know About Me
+## Know About Me
 
 </div>
 
@@ -17,17 +21,17 @@
     </td>
     <td>
 
-**Hey there! I'm Logesh** 👋
+**Hey there. I'm Logesh.**
 
-I'm a B.Tech Computer Science student who builds things simply because I can.
+B.Tech Computer Science student. I build things simply because I can.
 
-I explore different fields, learn new things — technically and personally. Whether it's **AI, software development, hardware projects, fitness**, or something completely new — I'm in.
+I explore different fields, learn new things — technically and personally. Whether it's AI, software development, hardware projects, fitness, or something completely new — I'm in.
 
-By day, I write code that *sometimes* works on the first try. By night, I debug the same line for 3 hours before realizing I missed a semicolon.
+By day, I write code that sometimes works on the first try. By night, I debug the same line for 3 hours before realizing I missed a semicolon.
 
-I'm gym-focused too — because building the body builds everything else.
+Gym-focused too — because building the body builds everything else.
 
-> **Motto:** *Be better than yesterday.*
+> **Motto:** Be better than yesterday.
 
   </td>
   </tr>
@@ -35,24 +39,20 @@ I'm gym-focused too — because building the body builds everything else.
 
 ---
 
-## 🔥 Top Projects *(built to avoid manual labor)*
+## Top Projects
 
 | Project | Description |
 |---------|-------------|
-| 🤖 **[SignVision AI](https://github.com/Logesh-vr)** | Real-time hand sign recognition using MediaPipe + FastAPI. Because typing is overrated. |
-| 🏥 **[Health Management System](https://github.com/Logesh-vr)** | AI-powered personal health dashboard with Gemini-based chatbot. Tracks meals, workouts & biometrics. |
-| 🧾 **[SyntheticQA](https://github.com/Logesh-vr)** | Full-stack Q&A system. Because finding answers manually is so last decade. |
-| 🍽️ **[MealOps](https://github.com/Logesh-vr)** | Meal planning & tracking app. Fueling the gym grind, one macro at a time. |
-
-<div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180px" alt="fire gif"/>
-</div>
+| **[SignVision AI](https://github.com/Logesh-vr)** | Real-time hand sign recognition using MediaPipe + FastAPI. Because typing is overrated. |
+| **[Health Management System](https://github.com/Logesh-vr)** | AI-powered personal health dashboard with Gemini-based chatbot. Tracks meals, workouts and biometrics. |
+| **[SyntheticQA](https://github.com/Logesh-vr)** | Full-stack Q&A system. Because finding answers manually is so last decade. |
+| **[MealOps](https://github.com/Logesh-vr)** | Meal planning and tracking app. Fueling the gym grind, one macro at a time. |
 
 ---
 
 <div align="center">
 
-## 🌐 Connect
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Logesh-vr)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logesh-rajaraman-665798323/)
@@ -64,11 +64,11 @@ I'm gym-focused too — because building the body builds everything else.
 
 > *Code is never finished. It only becomes slightly less terrible over time.*
 
-> *Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the code I've written, and wonder who let me anywhere near a keyboard.*
+> *Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at what I've written, and wonder who let me anywhere near a keyboard.*
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -87,12 +87,16 @@ I'm gym-focused too — because building the body builds everything else.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
 <div align="center">
 
-## 📊 Contribution
+## Contribution
 
 ![Logesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Logesh-vr&theme=github-compact&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true)
 
@@ -102,7 +106,7 @@ I'm gym-focused too — because building the body builds everything else.
 
 <div align="center">
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Logesh-vr&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
 <br/>
@@ -110,12 +114,4 @@ I'm gym-focused too — because building the body builds everything else.
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-vr&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
-  
-  [![](https://komarev.com/ghpvc/?username=Logesh-vr&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/Logesh-vr)
 </div>
