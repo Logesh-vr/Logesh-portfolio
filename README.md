@@ -43,10 +43,10 @@ Gym-focused too - because building the body builds everything else.
 
 | Project | Description |
 |---------|-------------|
-| **[SignVision AI](https://github.com/Logesh-vr)** | Real-time hand sign recognition using MediaPipe + FastAPI. Because typing is overrated. |
-| **[Health Management System](https://github.com/Logesh-vr)** | AI-powered personal health dashboard with Gemini-based chatbot. Tracks meals, workouts and biometrics. |
-| **[SyntheticQA](https://github.com/Logesh-vr)** | Full-stack Q&A system. Because finding answers manually is so last decade. |
-| **[MealOps](https://github.com/Logesh-vr)** | Meal planning and tracking app. Fueling the gym grind, one macro at a time. |
+| **[hoWrk](https://github.com/Logesh-vr/hoWrk)** | Hackathon-built civic incident platform. Citizens, guardians and authorities on one live map — React + FastAPI. |
+| **[UB](https://github.com/Logesh-vr/UB)** | Futuristic gym tracker with global leaderboard, PR tracking, dynamic routines and deload mode. Built to compete. |
+| **[MealOps](https://github.com/vedanthk-engr/MealOps)** | Large-scale hostel mess management — QR attendance, nutrition tracking, admin dashboard, Flutter + Next.js + FastAPI. |
+| **[inHand](https://github.com/Logesh-vr/inHand)** | Work in progress. Details coming soon. |
 
 ---
 
