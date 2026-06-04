@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Logesh Banner"/>
+  <img src="banner.svg" width="100%" alt="Logesh Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=I+Code+Because+I+Can;B.Tech+CS+%7C+AI+%7C+Full+Stack;Building+Body+%26+Codebase;Be+Better+Than+Yesterday" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=B.Tech+CS+%7C+AI+%7C+Full+Stack;Building+Body+%26+Codebase;Be+Better+Than+Yesterday" alt="Typing SVG"/>
 </div>
 
 ---
