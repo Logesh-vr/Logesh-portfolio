@@ -23,13 +23,13 @@
 
 **Hey there. I'm Logesh.**
 
-B.Tech Computer Science student. I build things simply because I can.
+B.Tech Computer Science student.
 
-I explore different fields, learn new things — technically and personally. Whether it's AI, software development, hardware projects, fitness, or something completely new — I'm in.
+I like exploring both technically and personally. Whether it's AI, software development, hardware projects, fitness, or something completely new - I'm in.
 
-By day, I write code that sometimes works on the first try. By night, I debug the same line for 3 hours before realizing I missed a semicolon.
+By day, I code that sometimes works on the first try. By night, I debug the same line for 3 hours.
 
-Gym-focused too — because building the body builds everything else.
+Gym-focused too - because building the body builds everything else.
 
 > **Motto:** Be better than yesterday.
 
